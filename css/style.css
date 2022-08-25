@@ -1,4 +1,4 @@
-h1 {
+.title {
     color: darkred;
     margin-top: 20px;
     margin-right: 20px;
@@ -33,3 +33,9 @@ nav a:hover {
     display: flex;
     justify-content: space-around;
 }
+.banner{
+    padding-top: 50px;
+    width:100%;
+    height:600px;
+    background-image: url("");
+  }
